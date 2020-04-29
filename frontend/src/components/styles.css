@@ -1,0 +1,14 @@
+.list-participants {
+  overflow: auto;
+  width: 100%;
+  text-align: center;
+  background-color: #cecece;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: 100;
+  font-family: Helvetica, sans-serif;
+}
+
+.list-participants li {
+  margin: 5px;
+}
